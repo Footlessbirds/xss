@@ -1,2 +1,9 @@
-# xss
-xss-test
+/*<html>
+  HI! SSRF to client side
+  <script>alert("XSS");</script>
+  <script>alert(document.cookie)</script>
+</html>
+*/
+test
+
+
